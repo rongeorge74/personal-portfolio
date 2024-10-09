@@ -48,6 +48,14 @@ const About = () =>{
                         <Typography component={'span'} variant={'body2'}>
                             <div className="my-details">
                             <h2 className="about-sub-head">
+                                Arizona State University :  <i> {' '}Aug’24 - May’26</i>
+                            </h2>
+                            <p className="about-deatils">
+                                Masters (Computer Science)	 <br/>		       	           
+                                CGPA: <strong>Ongoing </strong> <br/>
+                            </p>
+                            
+                            <h2 className="about-sub-head">
                                 Fr. Conceicao Rodrigues College of Engineering, Mumbai :  <i> {' '}Aug’18 - May’22</i>
                             </h2>
                             <p className="about-deatils">
