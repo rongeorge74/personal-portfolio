@@ -1,11 +1,12 @@
 export const projectsData = [
+    
     {
-        projectName: 'Hospital Management System',
+        projectName: 'GenAI based Invoice Data Extractor',
         projectDescription:
-            'Developed an application using the MERN stack and deployed it on GCP App Engine, providing a scalable and efficient solution for managing hospital operations.',
-        projectUrl: ' ',
-        projectSkills: 'HTML, CSS, ReactJs, NodeJs, MongoDB, ExpressJs, GCP',
-        // projectDuration: 'July 2021 - Aug 2021'
+            'Developed an Invoice Analysis Application using Python and Streamlit, integrated with the Google Gemini Flash 1.5 API to analyze invoice images and extract relevant information. The app was containerized and deployed on GCP Cloud Run, utilizing Cloud Build for CI/CD from GitHub to automate deployment upon code push',
+        projectUrl: 'https://genai-invoice-extract-u4hle24lma-uc.a.run.app',
+        projectSkills:'Python, Streamlit, Google Gemini Pro Vision API, Docker, PIL, GCP',
+        // projectDuration: 'Aug 2021 - Sept 2021'
     },
     {
         projectName: 'User Portal Application',
@@ -32,12 +33,12 @@ export const projectsData = [
         // projectDuration: 'Aug 2018 - Sept 2018'
     },
     {
-        projectName: 'GenAI based Invoice Data Extractor',
+        projectName: 'Hospital Management System',
         projectDescription:
-            'Developed an Invoice Analysis Application using Python and Streamlit, integrated with the Google Gemini Flash 1.5 API to analyze invoice images and extract relevant information. The app was containerized and deployed on GCP Cloud Run, utilizing Cloud Build for CI/CD from GitHub to automate deployment upon code push',
-        projectUrl: 'https://genai-invoice-extract-u4hle24lma-uc.a.run.app',
-        projectSkills:'Python, Streamlit, Google Gemini Pro Vision API, Docker, PIL, GCP',
-        // projectDuration: 'Aug 2021 - Sept 2021'
+            'Developed an application using the MERN stack and deployed it on GCP App Engine, providing a scalable and efficient solution for managing hospital operations.',
+        projectUrl: ' ',
+        projectSkills: 'HTML, CSS, ReactJs, NodeJs, MongoDB, ExpressJs, GCP',
+        // projectDuration: 'July 2021 - Aug 2021'
     },
     {
         projectName: 'Handling Class Imbalance in Fraud Detection',
