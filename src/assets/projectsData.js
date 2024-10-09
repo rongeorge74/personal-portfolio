@@ -10,7 +10,7 @@ export const projectsData = [
     {
         projectName: 'User Portal Application',
         projectDescription:
-            'Developed a User Portal Application using React, containerized the application using Docker, and implemented CI/CD pipelines with Cloud Build. Deployed the application on Google Kubernetes Engine (GKE) to ensure scalability, reliability, and efficient management.',
+            'Developed a User Portal Application using React, containerized the application using Docker, and implemented CI/CD pipelines with Cloud Build. Deployed the application on Google Kubernetes Engine (GKE) to ensure scalability, reliability, and efficient management. However, to keep my wallet happy, the app is currently taking a little vacation from GKE, but the code is alive and well on GitHub!',
         projectUrl: '',
         projectSkills: 'React, Cloud Build CI/CD, Docker, Kubernetes',
         // projectDuration: 'Aug 2018 - Oct 2018'
