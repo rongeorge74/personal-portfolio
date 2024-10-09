@@ -18,7 +18,7 @@ export const projectsData = [
     {
         projectName: 'Nutritionist Generative AI Doctor',
         projectDescription:
-            'Developed an application using Python and Streamlit, integrated with the Google Gemini Pro Vision API to analyze food items from uploaded images and calculate their total calorie content. The app was containerized and deployed on GCP Cloud Run',
+            'Developed an application using Python and Streamlit, integrated with the Google Gemini Flash 1.5 API to analyze food items from uploaded images and calculate their total calorie content. The app was containerized and deployed on GCP Cloud Run, utilizing Cloud Build for CI/CD from GitHub to automate deployment upon code push.',
         projectUrl: 'https://nutrition-app-u4hle24lma-uc.a.run.app',
         projectSkills: 'Python, Streamlit, Google Gemini Pro Vision API, Docker, GCP',
         // projectDuration:'Feb 2021'
@@ -34,7 +34,7 @@ export const projectsData = [
     {
         projectName: 'GenAI based Invoice Data Extractor',
         projectDescription:
-            'Developed an Invoice Analysis Application using Python and Streamlit, integrated with the Google Gemini Pro Vision API to analyze invoice images and extract relevant information. The app was containerized and deployed on GCP Cloud Run',
+            'Developed an Invoice Analysis Application using Python and Streamlit, integrated with the Google Gemini Flash 1.5 API to analyze invoice images and extract relevant information. The app was containerized and deployed on GCP Cloud Run, utilizing Cloud Build for CI/CD from GitHub to automate deployment upon code push',
         projectUrl: 'https://genai-invoice-extract-u4hle24lma-uc.a.run.app',
         projectSkills:'Python, Streamlit, Google Gemini Pro Vision API, Docker, PIL, GCP',
         // projectDuration: 'Aug 2021 - Sept 2021'
@@ -47,11 +47,6 @@ export const projectsData = [
         projectSkills:'Python, Classification Algorithms, Sampling Techniques',
         // projectDuration: 'Feb 2019 - Oct 2019'
     },
-    // {
-    //     projectName: 'PokeDex',
-    //     projectDescription:
-    //         "Pokemon was a huge part of our childhood, wasn't it? Talking about pokemon brings back so many memories, but do you remember the details of each pokemon? Probably No! So here I bring you a pokedex to check all pokemons :)",
-    //     projectUrl: 'http://theleanprogrammer.com/pokedex/',
-    // },
+    
    
 ];
