@@ -28,7 +28,7 @@ const About = () =>{
     return(
         <div className="section-container">
             <Header Heading="About me" 
-            subHeading="Hello, I'm Ron George, a dedicated Platform Engineer based in Tempe, Arizona. Currently pursuing a Master’s in Computer Science at Arizona State University, I hold a Bachelor’s degree in Computer Engineering from the University of Mumbai. My expertise spans full-stack development, Cloud Computing, DevOps methodologies, and AI/ML technologies. Explore my portfolio to discover how I can transform your ideas into reality." />
+            subHeading="Hello, I'm Ron George, a dedicated Cloud And DevOps Engineer based in Tempe, Arizona. Currently pursuing a Master’s in Computer Science at Arizona State University, I hold a Bachelor’s degree in Computer Engineering from the University of Mumbai. My expertise spans full-stack development, Cloud Computing, DevOps methodologies, and AI/ML technologies. Explore my portfolio to discover how I can transform your ideas into reality." />
 
 
             <div className="education-accordian accordian-alignment">
